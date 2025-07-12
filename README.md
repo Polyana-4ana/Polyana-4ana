@@ -1,4 +1,14 @@
 ## Hi there 👋
+## I'm Polyana
+
+- I live in Brasil
+- Progamming student
+
+## Conect with me:
+<a href = "www.linkedin.com/in/polyana-sanhudo-dos-santos-4a0936320" >
+<img aling ="center" alt= "polyana-linkedin" height= "30" width = "40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    
+</a>
 
 <!--
 **Polyana-4ana/Polyana-4ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
