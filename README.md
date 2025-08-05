@@ -1,8 +1,8 @@
 
-<h1 align="center">Olá 👋, eu sou Polyana</h1>
-<h3 align="center">Eterna estudante</h3>
+<h1 align="center"> Hi 👋, I'm Polyana</h1>
+<h3 align="center">Eternal student</h3>
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Contact me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/polyana-sanhudo-dos-santos-4a0936320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/polyana-sanhudo-dos-santos-4a0936320" height="30" width="40" /></a>
 </p>
