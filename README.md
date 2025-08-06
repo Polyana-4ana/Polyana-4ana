@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou a Polyana</h1>
+<h1 align="center">Olá 👋, eu sou Polyana</h1>
 <h3 align="center">Eterno estudante!</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
